@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X version="1.0">
+  <V id="pkg_demos">
+    <A>
+      <T key="gta_v_demo">
+        <P key="icon"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/icons/demo_icon.png</></P>
+        <P key="title"><>GTA V Demo</></P>
+        <P key="info"><>Deneme sürümü</></P>
+        <P key="module_name"><>webrender_plugin</></P>
+        <P key="module_action"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/html/demo_page.html</></P>
+      </T>
+
+      <T key="fifa14_trial">
+        <P key="icon"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/icons/demo_icon.png</></P>
+        <P key="title"><>FIFA 14 Trial</></P>
+        <P key="info"><>Deneme sürümü</></P>
+        <P key="module_name"><>webrender_plugin</></P>
+        <P key="module_action"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/html/demo_page.html</></P>
+      </T>
+
+      <T key="cod_test">
+        <P key="icon"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/icons/demo_icon.png</></P>
+        <P key="title"><>Call of Duty Test</></P>
+        <P key="info"><>Deneme sürümü</></P>
+        <P key="module_name"><>webrender_plugin</></P>
+        <P key="module_action"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/html/demo_page.html</></P>
+      </T>
+    </A>
+    <I>
+      <I class="type:x-xmb/module-action" key="gta_v_demo" attr="gta_v_demo"/>
+      <I class="type:x-xmb/module-action" key="fifa14_trial" attr="fifa14_trial"/>
+      <I class="type:x-xmb/module-action" key="cod_test" attr="cod_test"/>
+    </I>
+  </V>
+</X>

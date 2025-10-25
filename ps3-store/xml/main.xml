@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X version="1.0">
+  <V id="faruk_store_main">
+    <A>
+      <T key="demos">
+        <P key="icon"><>https://raw.githubusercontent.com/Farukpro/ps3-store/main/icons/demo_icon.png</></P>
+        <P key="title"><>🎮 Demo Oyunlar</></P>
+        <P key="info"><>3 adet demo içerir</></P>
+      </T>
+    </A>
+    <I>
+      <Q class="type:x-xmb/folder-pixmap" key="demos" attr="demos"
+         src="https://raw.githubusercontent.com/Farukpro/ps3-store/main/xml/pkg_demos.xml#pkg_demos"/>
+    </I>
+  </V>
+</X>
