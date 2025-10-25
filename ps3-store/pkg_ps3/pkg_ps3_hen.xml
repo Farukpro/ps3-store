@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X version="1.0">
+    <V id="pkg_ps3_hen">
+        <A>
+            <T key="game1">
+                <P key="icon"><>/dev_hdd0/game/FARU0001/USRDIR/pkg_store/icons/ps3_icon.png</></P>
+                <P key="title"><>The Last of Us</></P>
+                <P key="info"><>BCES-01584 - 30 GB</></P>
+                <P key="module_name"><>webrender_plugin</></P>
+                <P key="module_action"><>http://example.com/ps3/game1.html</></P>
+            </T>
+        </A>
+    </V>
+</X>
