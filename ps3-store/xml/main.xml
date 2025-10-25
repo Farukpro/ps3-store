@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X version="1.0">
+    <V id="the_pkg_store"> 
+        <A> 
+            <T key="pkg_ps3_hen">
+                <P key="icon"><>https://farukpro.github.io/ps3-store/icons/pkg_ps3_hen.png</></P>
+                <P key="title"><>PS3 (HEN)</></P>
+                <P key="info"><>HEN sistemler için PS3 oyunları</></P>
+            </T>
+        </A>
+        <I>
+            <Q class="type:x-xmb/folder-pixmap" key="pkg_ps3_hen" attr="pkg_ps3_hen" src="https://farukpro.github.io/ps3-store/xml/pkg_ps3_hen.xml#pkg_ps3_hen"/>
+        </I>
+    </V>
+</X>
