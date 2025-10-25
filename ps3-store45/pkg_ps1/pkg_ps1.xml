@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<X version="1.0">
+    <V id="pkg_ps1">
+        <A>
+            <T key="game1">
+                <P key="icon"><>/dev_hdd0/game/FARU0001/USRDIR/pkg_store/icons/ps1_icon.png</></P>
+                <P key="title"><>Crash Bandicoot</></P>
+                <P key="info"><>NPUJ-00001 - 400 MB</></P>
+                <P key="module_name"><>webrender_plugin</></P>
+                <P key="module_action"><>http://example.com/ps1/game1.html</></P>
+            </T>
+        </A>
+    </V>
+</X>
